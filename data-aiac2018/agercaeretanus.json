@@ -1,0 +1,646 @@
+{
+  "sites": [
+    {
+      "id": "1",
+      "dates": [
+        "['-300', '400']"
+      ],
+      "features": "['area di frammenti', 'impasto non tornito ingubbiato', 'vernice nera', 'sigillata italica', 'ceramica comune', 'dolio', 'anfora', 'tegola', 'blocco squadato in tufo', 'cementizio', 'scaglie di tufo', 'scaglie di selce nera', 'intonaco dipinto', 'opus signinum', 'tessera musiva', 'marmo', 'macina', 'villa romana', 'struttura muraria']"
+    },
+    {
+      "id": "2",
+      "dates": [
+        "['-300', '-100']",
+        "['1','100']"
+      ],
+      "features": "['area di frammenti', 'impasto rosso-bruno', 'impasto chiaro-sabbioso', 'tardo impasto grezzo', 'vernice nera', 'sigillata italica', 'ceramica comune', 'tegola']"
+    },
+    {
+      "id": "4",
+      "dates": [
+        "['-130', '400']"
+      ],
+      "features": "['area di frammenti', 'vernice nera', 'ceramica comune', 'anfora', 'tegola', 'cementizio', 'laterizi', 'cubilia in tufo', 'scapoli di tufo', 'intonaco dipinto', 'tessera musiva', 'marmo']"
+    },
+    {
+      "id": "5",
+      "dates": [
+        "['1', '200']"
+      ],
+      "features": "['impasto rosso-bruno', 'sigillata italica', 'ceramica comune', 'anfora', 'lucerna', 'tegola', 'cementizio', 'scaglie di tufo', 'intonaco dipinto', 'opus signinum', 'marmo', 'villa']"
+    },
+    {
+      "id": "6",
+      "dates": [
+        "['-300', '-100']"
+      ],
+      "features": "['impasto rosso-bruno', 'vernice nera', 'comune repubblicana', 'anfora', 'tegola']"
+    },
+    {
+      "id": "11",
+      "dates": [
+        "['-300', '-100']",
+        "['1','100']"
+      ],
+      "features": "['impasto rosso-bruno', 'vernice nera', 'pareti sottili', 'ceramica comune', 'tegola']"
+    },
+    {
+      "id": "12",
+      "dates": [
+        "['-300', '-200']"
+      ],
+      "features": "['impasto rosso', 'vernice nera', 'comune repubblicana', 'tegola']"
+    },
+    {
+      "id": "15",
+      "dates": [
+        "['-600', '100']"
+      ],
+      "features": "['impasto rosso-bruno', 'impasto chiaro-sabbioso', 'tardo impasto grezzo', 'anfora', 'vernice nera', 'sigillata italica', 'comune repubblicana da fuoco', 'tegola', 'scaglie di tufo', 'blocco squadraio in tufo', 'decorazione architettonica', 'struttura muraria', 'insediamento rurale']"
+    },
+    {
+      "id": "18",
+      "dates": [
+        "['-300', '200']"
+      ],
+      "features": "['area di frammenti', 'impasto rosso-bruno', 'vernice nera', 'sigillata italica', 'pareti sottili', 'blocco squadrato in peperino', 'tegola', 'cementizio', 'scaglie in tufo', 'scaglie di calcare', 'intonaco', 'opus signinum', 'pavimento in opus spicatum', 'insediamento rustico']"
+    },
+    {
+      "id": "21",
+      "dates": [
+        "['-200', '400']"
+      ],
+      "features": "['impasto rosso-bruno', 'vernice nera', 'comune primo imperiale', 'dolio', 'tegola', 'blocco squadrato in peperino', 'blocco squadrato in tufo', 'muratura in cementizio', 'scaglie di tufo', 'scaglie di calcare', 'marmo', 'villa romana']"
+    },
+    {
+      "id": "22",
+      "dates": [
+        "['-200', '500']"
+      ],
+      "features": "['area di frammenti', 'vernice nera', 'sigillata italica', 'comune repubblicana', 'ceramica primo imperiale', 'anfora', 'tegola', 'scapoli di tufo', 'scapoli di calcare', 'basolo', 'scaglie di selce nera']"
+    },
+    {
+      "id": "27",
+      "dates": [
+        "['-600', '-200']"
+      ],
+      "features": "['area di frammenti', 'insediamento rustico', 'comune repubblicana', 'tegola', 'scaglie di tufo']"
+    },
+    {
+      "id": "29",
+      "dates": [
+        "['-200', '200']"
+      ],
+      "features": "['area di frammenti', 'vernice nera', 'comune primo imperiale', 'anfora', 'tegola', 'cementizio', 'scaglie di tufo', 'scaglie di calcare', 'opus spicatum', 'insediamento rustico']"
+    },
+    {
+      "id": "30",
+      "dates": [
+        "['-200', '400']"
+      ],
+      "features": "['vernice nera', 'sigillata italica', 'pareti sottili', 'comune imperiale', 'anfora', 'dolio', 'tegola', 'laterizi', 'cementizio', 'scaglie di tufo', 'intonaco dipinto', 'tessera musiva', 'opus spicatum', 'villa romana']"
+    },
+    {
+      "id": "31",
+      "dates": [
+        "['1', '200']"
+      ],
+      "features": "['cisterna']"
+    },
+    {
+      "id": "32",
+      "dates": [
+        "['-300', '400']"
+      ],
+      "features": "['vernice nera', 'sigillata italica', 'comune imperiale', 'anfora', 'tegola', 'muratura in cementizio', 'blocco rettangolare di tufo', 'scaglie di calcare', 'scaglie di tufo', 'scaglie in selce nera']"
+    },
+    {
+      "id": "33",
+      "dates": [
+        "['-200', '300']"
+      ],
+      "features": "['area di frammenti', 'vernice nera', 'sigillata italica', 'comune imperiale', 'anfora', 'dolio', 'tegola', 'laterizi', 'cementizio', 'intonaco dipinto', 'scaglie di tufo', 'insediamento rustico']"
+    },
+    {
+      "id": "39",
+      "dates": [
+        "['-300', '-100']"
+      ],
+      "features": "['area di frammenti', 'insediamento rustico', 'vernice nera', 'comune repubblicana', 'tegola', 'scaglie di tufo', 'scaglie di calcare']"
+    },
+    {
+      "id": "46",
+      "dates": [
+        "['-100', '100']"
+      ],
+      "features": "['area di frammenti', 'sigillata italica', 'pareti sottili', 'ceramica comune', 'anfora', 'Dressel 1', 'tegola', 'antefisse', 'lastre architettoniche decorate', 'laterizi', 'scaglie di tufo', 'opus spicatum', 'insediamento rustico', 'forno', 'costruzione edilizia']"
+    },
+    {
+      "id": "51",
+      "dates": [
+        "['-300', '-200']",
+        "['1','100']"
+      ],
+      "features": "['vernice nera', 'sigillata italica', 'comune da mensa', 'tegola', 'scaglie di tufo', 'insediamento rustico']"
+    },
+    {
+      "id": "52",
+      "dates": [
+        "['-400', '-200']"
+      ],
+      "features": "['area di frammenti', 'ceramica comune', 'comune romana', 'anfora', 'tegola']"
+    },
+    {
+      "id": "59",
+      "dates": [
+        "['1', '100']"
+      ],
+      "features": "['area di frammenti', 'sigillata italica', 'comune primo imperiale da mensa', 'comune primo imperiale da fuoco', 'tegola', 'scaglie di tufo']"
+    },
+    {
+      "id": "65",
+      "dates": [
+        "['-300', '-100']",
+        "['1','100']"
+      ],
+      "features": "['area di frammenti', 'dolio', 'vernice nera', 'sigillata italica', 'comune romana da mensa', 'scaglie di tufo']"
+    },
+    {
+      "id": "66",
+      "dates": [
+        "['1', '200']"
+      ],
+      "features": "['area di frammenti', 'insediamento rustico', 'sigillata italica', 'pareti sottili', 'comune da mensa', 'comune da fuoco', 'anfora', 'tegola', 'scaglie di tufo']"
+    },
+    {
+      "id": "67",
+      "dates": [
+        "['-300', '500']"
+      ],
+      "features": "['area di frammenti', 'vernice nera', 'sigillata italica', 'comune imperiale da mensa', 'comune imperiale da fuoco', 'opus spicatum', 'vetro', 'insediamento rustico']"
+    },
+    {
+      "id": "68",
+      "dates": [
+        "['1', '200']"
+      ],
+      "features": "['area di frammenti', 'comune romana da mensa', 'anfora', 'Will A-C', 'tegola', 'macinello in pietra lavica']"
+    },
+    {
+      "id": "74",
+      "dates": [
+        "['1', '200']"
+      ],
+      "features": "['area di frammenti', 'scaglie di tufo', 'muratura in cementizio', 'tegola', 'comune romana da mensa', 'comune romana da fuoco', 'anfora', 'marmo', 'pavimento in opus sectile', 'edificio']"
+    },
+    {
+      "id": "76",
+      "dates": [
+        "['-300', '-100']"
+      ],
+      "features": "['area di frammenti', 'vernice nera', 'tegola', 'scaglie di tufo', 'insediamento rurale']"
+    },
+    {
+      "id": "83",
+      "dates": [
+        "['-300', '-100']"
+      ],
+      "features": "['area di frammenti', 'comune romana repubblicana', 'anfora', 'tegola', 'insediamento rustico']"
+    },
+    {
+      "id": "85",
+      "dates": [
+        "['-300', '-100']"
+      ],
+      "features": "['area di frammenti', 'comune repubblicana', 'anfora', 'tegola']"
+    },
+    {
+      "id": "86",
+      "dates": [
+        "['-300', '-100']"
+      ],
+      "features": "['area di frammenti', 'vernice nera', 'tegola', 'scaglie di basoli in selce nera', 'comune romana']"
+    },
+    {
+      "id": "89",
+      "dates": [
+        "['-200', '600']"
+      ],
+      "features": "['area di frammenti', 'anfora', 'tessera musiva', 'marmo', 'tegola', 'dolio', 'macina', 'base di frantoio', 'vernice nera', 'sigillata italica', 'comune imperiale', 'Dressel 2-4', 'opus reticulatum', 'opus spicatum', 'tubuli', 'vetro', 'fistula plumbea']"
+    },
+    {
+      "id": "94",
+      "dates": [
+        "['-200', '300']"
+      ],
+      "features": "['area di frammenti', 'tegola', 'scaglie di calcare']"
+    },
+    {
+      "id": "96",
+      "dates": [
+        "['-300', '-100']"
+      ],
+      "features": "['vernice nera', 'comune repubblicana', 'Will A-C', 'anfora', 'tegola', 'blocco squadrato in peperino', 'scaglie di tufo', 'insediamento rustico']"
+    },
+    {
+      "id": "97",
+      "dates": [
+        "['-400', '-100']"
+      ],
+      "features": "['area di frammenti', 'insediamento rustico', 'comune repubblicana', 'anfora', 'tegola']"
+    },
+    {
+      "id": "100",
+      "dates": [
+        "['-300', '-100']"
+      ],
+      "features": "['area di frammenti', 'tegola', 'scaglie di tufo', 'vernice nera']"
+    },
+    {
+      "id": "103",
+      "dates": [
+        "['-300', '400']"
+      ],
+      "features": "['area di frammenti', 'vernice nera', 'sigillata italica', 'comune imperiale', 'tegola', 'cementizio', 'scaglie di tufo', 'tessera musiva', 'opus spicatum', 'marmo', 'insediamento rustico']"
+    },
+    {
+      "id": "104",
+      "dates": [
+        "['-200', '-1']"
+      ],
+      "features": "['area di frammenti', 'ceramica comune tardo-repubblicana', 'tegola', 'vetro', 'balsamario', 'sepoltura romana del tipo a cappuccina']"
+    },
+    {
+      "id": "106",
+      "dates": [
+        "['-300', '-100']"
+      ],
+      "features": "['area di frammenti', 'peso da telaio', 'comune repubblicana', 'tegola']"
+    },
+    {
+      "id": "107",
+      "dates": [
+        "['-300', '-100']"
+      ],
+      "features": "['area di frammenti', 'anfora romana', 'vernice nera', 'comune repubblicana', 'tegola', 'insediamento rustico', 'scaglie di tufo', 'scaglie di peperino']"
+    },
+    {
+      "id": "108",
+      "dates": [
+        "['-300', '-200']"
+      ],
+      "features": "['area di frammenti', 'vernice nera', 'comune imperiale', 'anfora', 'tegola', 'intonaco', 'scaglie di tufo', 'scaglie di calcare']"
+    },
+    {
+      "id": "113",
+      "dates": [
+        "['', '']"
+      ],
+      "features": "['ponte', 'struttura muraria in opera quadrata', 'vernice nera', 'tegola']"
+    },
+    {
+      "id": "116",
+      "dates": [
+        "['1', '200']"
+      ],
+      "features": "['area di frammenti', 'comune primo imperiale', 'tegola']"
+    },
+    {
+      "id": "118",
+      "dates": [
+        "['-300', '300']"
+      ],
+      "features": "['area di frammenti', 'vernice nera', 'sigillata italica', 'comune imperiale da mensa', 'lucerna', 'anfora', 'Dressel 2-4', 'laterizi', 'cementizio', 'opus signinum', 'scaglie di tufo', 'scaglie di calcare', 'intonaco dipinto', 'insediamento rustico', 'opus spicatum', 'marmo', 'tessera musiva', 'macina']"
+    },
+    {
+      "id": "120",
+      "dates": [
+        "['-300', '400']"
+      ],
+      "features": "['area di frammenti', 'vernice nera', 'sigillata italica', 'comune imperiale da mensa', 'comune imperiale da fuoco', 'anfora', 'Beltran IIB', 'Dressel 2-4', 'tegola', 'blocco squadrao in calcare', 'cementizio', 'scaglie di tufo', 'scaglie di calcare', 'opus signinum', 'basolo in calcare', 'schegge di lavorazione in selce', 'insediamento rustico']"
+    },
+    {
+      "id": "121",
+      "dates": [
+        "['-30', '300']"
+      ],
+      "features": "['area di frammenti', 'sigillata italica', 'tegola', 'cementizio', 'scaglie di tufo', 'scaglie di calcare', 'scaglie di selce nera', 'edificio in cementizio']"
+    },
+    {
+      "id": "122",
+      "dates": [
+        "['-200', '600']"
+      ],
+      "features": "['villa', 'sigillata italica', 'vernice nera', 'pareti sottili', 'comune imperiale', 'lucerna', 'anfora', 'Dressel 20', 'tegola', 'cementizio', 'scaglie di tufo', 'scaglie di calcare', 'opus signinum', 'laterizi', 'intonaco dipinto', 'tessera musiva', 'tubuli', 'marmo', 'fistula plumbea', 'vetro', 'inscrizione', 'muro in opus quadratum di tufo', 'sigillata sud-gallica', 'epigrafa funeraria']"
+    },
+    {
+      "id": "125",
+      "dates": [
+        "['1', '100']"
+      ],
+      "features": "['area di frammenti', 'sigillata italica', 'tegola']"
+    },
+    {
+      "id": "126",
+      "dates": [
+        "['1', '300']"
+      ],
+      "features": "['area di frammenti', 'ceramica comune imperiale', 'anfora', 'tegola']"
+    },
+    {
+      "id": "128",
+      "dates": [
+        "['1', '100']"
+      ],
+      "features": "['area di frammenti', 'sigillata italica', 'comune primo imperiale', 'tegola']"
+    },
+    {
+      "id": "129",
+      "dates": [
+        "['1', '100']"
+      ],
+      "features": "['area di frammenti', 'sigillata italica', 'comune imperiale da mensa', 'Dressel 2-4', 'anfora', 'dolio', 'tegola', 'scaglie di tufo', 'insediamento rustico']"
+    },
+    {
+      "id": "130",
+      "dates": [
+        "['-300', '200']"
+      ],
+      "features": "['area di frammenti', 'vernice nera', 'sigillata italica', 'pareti sottili', 'invetriata', 'comune primo imperiale da mensa', 'comune primo imperiale da fuoco', 'tegola', 'Dressel 2-4', 'Mana C2', 'tegola', 'laterizi', 'scaglie di calcare', 'scaglie di tufo', 'insediamento rustico']"
+    },
+    {
+      "id": "134",
+      "dates": [
+        "['-300', '100']"
+      ],
+      "features": "['area di frammenti', 'sigillata italica', 'vernice nera', 'comune imperiale da mensa', 'comune imperiale da fuoco', 'tegola', 'laterizi', 'cementizio', 'scaglie di tufo', 'scaglie di calcare', 'opus signinum', 'fibula bronzea romana', 'insediamento rustico']"
+    },
+    {
+      "id": "135",
+      "dates": [
+        "['-600', '100']"
+      ],
+      "features": "['area di frammenti', 'vernice nera', 'sigillata italica', 'comune repubblicana', 'tegola', 'cementizio', 'scaglie di tufo', 'scaglie di calcare', 'ematite']"
+    },
+    {
+      "id": "139",
+      "dates": [
+        "['-100', '400']"
+      ],
+      "features": "['area di frammenti', 'ceramica', 'edilizi di epoca romana', 'sigillata italica', 'tegola', 'ceramica comune']"
+    },
+    {
+      "id": "140",
+      "dates": [
+        "['-400', '200']"
+      ],
+      "features": "['ponte']"
+    },
+    {
+      "id": "142",
+      "dates": [
+        "['1', '300']"
+      ],
+      "features": "['area di frammenti', 'sigillata italica', 'comune imperiale', 'anfora', 'dolio', 'tegola', 'muratura in cementizio', 'ceramic comune imperiale', 'cementizio', 'insediamento rustico']"
+    },
+    {
+      "id": "153",
+      "dates": [
+        "['-200', '200']"
+      ],
+      "features": "['area di frammenti', 'sigillata italica', 'comune primo imperiale da mensa', 'comune primo imperiale da fuoco', 'anfora', 'dolio', 'tegola', 'laterizi', 'insediamento rustico', 'blocco squadato in peprimo']"
+    },
+    {
+      "id": "157",
+      "dates": [
+        "['', '']"
+      ],
+      "features": "['Ad Turres']"
+    },
+    {
+      "id": "159",
+      "dates": [
+        "['-600', '-200']"
+      ],
+      "features": "['area di frammenti', 'vernice nera', 'comune repubblicana da mensa', 'comune repubblicana da fuoco', 'anfora', 'Will A-C', 'dolio', 'antefissa a testa femminile', 'frammento architettonico', 'tegola', 'insediamento', 'carboni', 'ossa animali combuste']"
+    },
+    {
+      "id": "166",
+      "dates": [
+        "['-300', '300']"
+      ],
+      "features": "['area di frammenti', 'vernice nera', 'sigillata italica', 'comune imperiale da mensa', 'tegola', 'laterizi', 'cubilia in calcare', 'cementizio', 'scaglie di calcare']"
+    },
+    {
+      "id": "170",
+      "dates": [
+        "['-300', '300']"
+      ],
+      "features": "['area di frammenti', 'vernice nera', 'comune imperiale da mensa', 'comune imperiale da fuoco', 'tegola', 'anfora', 'blocco squadrato in tufo', 'cementizio', 'tessera musiva', 'marmo']"
+    },
+    {
+      "id": "173",
+      "dates": [
+        "['-400', '200']"
+      ],
+      "features": "['area di frammenti', 'comune da mensa', 'anfora romana', 'tegola', 'scaglie di calcare']"
+    },
+    {
+      "id": "174",
+      "dates": [
+        "['1', '200']"
+      ],
+      "features": "['area di frammenti', 'comune imperiale', 'anfora', 'tegola']"
+    },
+    {
+      "id": "175",
+      "dates": [
+        "['1', '200']"
+      ],
+      "features": "['area di frammenti', 'ceramica comune imperiale', 'tegola']"
+    },
+    {
+      "id": "176",
+      "dates": [
+        "['-200', '300']"
+      ],
+      "features": "['area di frammenti', 'vernice nera', 'comune primo imperiale', 'anfora', 'tegola', 'scaglie di calcare', 'insediamento rustico']"
+    },
+    {
+      "id": "177",
+      "dates": [
+        "['1', '200']"
+      ],
+      "features": "['area di frammenti', 'fornace ceramica', 'comune imperiale', 'tegola', 'scaglie di calcare', 'opus signinum', 'scorie di fusione vetrosa']"
+    },
+    {
+      "id": "178",
+      "dates": [
+        "['1', '200']"
+      ],
+      "features": "['area di frammenti', 'anfora', 'Dressel 2-4', 'tegola', 'laterizi', 'intonaco dipinto', 'opus signinum', 'tessera musiva', 'tubuli', 'marmo', 'scaglie di calcare', 'cementizio', 'ninfeo', 'conduttura sotteranea dell acqua']"
+    },
+    {
+      "id": "184",
+      "dates": [
+        "['1', '200']"
+      ],
+      "features": "['area di frammenti', 'comune imperiale da mensa', 'tegola', 'laterizi', 'cubilia in calcare', 'lastra squadrata di calcare', 'cementizio', 'intonaco dipinto', 'opus signinum', 'marmo']"
+    },
+    {
+      "id": "195",
+      "dates": [
+        "['1', '200']"
+      ],
+      "features": "['area di frammenti', 'ceramica comune imperiale', 'anfora', 'tegola', 'cementizio', 'scaglie di calcare', 'insediamento rustico']"
+    },
+    {
+      "id": "196",
+      "dates": [
+        "['-30', '250']"
+      ],
+      "features": "['villa romana', 'cryptoporticus', 'giardino', 'peristylo porticato', 'impianto termale', 'opus reticulatum', 'edifici']"
+    },
+    {
+      "id": "197",
+      "dates": [
+        "['', '']"
+      ],
+      "features": "['Alsium']"
+    },
+    {
+      "id": "200",
+      "dates": [
+        "['-200', '300']"
+      ],
+      "features": "['area di frammenti', 'insediamento rustico', 'pareti sottili', 'comune primo imperiale da mensa', 'anfora', 'tegola', 'cementizio', 'scaglie di tufo', 'vernice nera', 'sigillata italica']"
+    },
+    {
+      "id": "203",
+      "dates": [
+        "['1', '300']"
+      ],
+      "features": "['area di frammenti', 'sigillata italica', 'comune imperiale da mensa', 'comune imperiale da fuoco', 'anfora', 'dolio', 'tegola', 'laterizi', 'cementizio', 'tessera musiva', 'marmo', 'villa romana']"
+    },
+    {
+      "id": "205",
+      "dates": [
+        "['1', '200']"
+      ],
+      "features": "['area di frammenti', 'dolio', 'tegola']"
+    },
+    {
+      "id": "207",
+      "dates": [
+        "['1', '400']"
+      ],
+      "features": "['area di frammenti', 'cisterna', 'sigillata italica', 'pareti sottili', 'comune imperiale', 'anfora', 'dolio', 'laterizi', 'blocco quadrato in travertino', 'cementizio', 'scaglie di tufo', 'scaglie di calcare', 'tessera musiva', 'marmo', 'vetro', 'villa romana']"
+    },
+    {
+      "id": "208",
+      "dates": [
+        "['1', '300']"
+      ],
+      "features": "['area di frammenti', 'tegola', 'scaglie di tufo', 'sepoltura romana del tipo a cappuccina']"
+    },
+    {
+      "id": "209",
+      "dates": [
+        "['-600', '-300']",
+        "['1','100']"
+      ],
+      "features": "['area di frammenti', 'sigillata italica', 'anfora romana', 'tegolaromana', 'depurata dipinta (-600,-400)']"
+    },
+    {
+      "id": "215",
+      "dates": [
+        "['-200', '600']"
+      ],
+      "features": "['villa romana', 'cisterna', 'struttura muraria in opera cementizia', 'tegola', 'malta', 'opus signinum', 'scaglie di calcare', 'opus reticulatum', 'vernice nera', 'sigillata italica', 'comune imperiale', 'lucerna', 'anfora', 'dolio', 'cubilia in calcare', 'cementizio', 'scaglie di tufo', 'intonaco dipinto', 'opus signinum', 'tessera musiva', 'opus spicatum', 'vetro', 'macina', 'basolo']"
+    },
+    {
+      "id": "218",
+      "dates": [
+        "['1', '200']"
+      ],
+      "features": "['area di frammenti', 'comune primo imperiale', 'tegola', 'cementizio', 'scaglie di calcare', 'macina']"
+    },
+    {
+      "id": "219",
+      "dates": [
+        "['-300', '-100']"
+      ],
+      "features": "['area di frammenti', 'vernice nera', 'ceramica imperiale da mensa', 'cementizio', 'scaglie di tufo', 'vetro', 'scorie di fusione ferrosa', 'insediamento']"
+    },
+    {
+      "id": "222",
+      "dates": [
+        "['-300', '-100']"
+      ],
+      "features": "['area di frammenti', 'vernice nera', 'comune repubblicana', 'tegola']"
+    },
+    {
+      "id": "226",
+      "dates": [
+        "['-600', '300']"
+      ],
+      "features": "['area di frammenti', 'vernice nera', 'sigillata italica', 'comune imperiale da mensa', 'comune imperiale da fuoco', 'anfora', 'Dressel 2-4', 'tegola', 'cementizio', 'scaglie di calcare', 'opus signinum', 'tessera musiva', 'opus spicatum', 'insediamento rustico']"
+    },
+    {
+      "id": "227",
+      "dates": [
+        "['-200', '300']"
+      ],
+      "features": "['area di frammenti', 'tegola', 'scaglie di calcare', 'sepoltura romana del tipo a cappuccina']"
+    },
+    {
+      "id": "230",
+      "dates": [
+        "['-200', '300']"
+      ],
+      "features": "['area di frammenti', 'anfora romana', 'tegola', 'scaglie di tufo', 'scaglie di calcare', 'resti di una struttura muraria']"
+    },
+    {
+      "id": "231",
+      "dates": [
+        "['-600', '400']"
+      ],
+      "features": "['area di frammenti', 'vernice nera', 'sigillata italica', 'comune imperiale da mensa', 'anfora', 'tegola', 'cementizio', 'opus signinum', 'insediamento rustico']"
+    },
+    {
+      "id": "232",
+      "dates": [
+        "['-300', '-100']"
+      ],
+      "features": "['area di frammenti', 'vernice nera', 'sigillata italica', 'pareti sottili', 'comune imperiale da mensa', 'comune imperiale da fuoco', 'anfora', 'Dressel 2-4', 'dolio', 'tegola', 'scaglie di tufo', 'scaglie di calcare', 'insediamento rustico']"
+    },
+    {
+      "id": "233",
+      "dates": [
+        "['-300', '-100']"
+      ],
+      "features": "['area di frammenti', 'vernice nera', 'comune repubblicana', 'comune imperiale', 'tegola', 'insediamento rustico']"
+    },
+    {
+      "id": "234",
+      "dates": [
+        "['1', '300']"
+      ],
+      "features": "['area di frammenti', 'sigillata italica', 'comune primo imperiale', 'dolio', 'tegola', 'cementizio', 'scaglie di tufo', 'scaglie di calcare', 'opus signinum', 'scorie di fusione ferrosa', 'insediamento rustico']"
+    },
+    {
+      "id": "238",
+      "dates": [
+        "['1', '100']"
+      ],
+      "features": "['area di frammenti', 'sigillata italica', 'comune primo imperiale', 'tegola']"
+    },
+    {
+      "id": "239",
+      "dates": [
+        "['-300', '-100']"
+      ],
+      "features": "['area di frammenti', 'vernice nera', 'comune repubblicana da fuoco', 'tegola', 'scaglie di tufo', 'scaglie di calcare', 'insediamento rustico']"
+    }
+  ]
+}
