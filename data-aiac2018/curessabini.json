@@ -138,5 +138,5 @@
 { "id": "159", "dates": ["['-30', '300']"], "features": "['cisterna']"}, 
 { "id": "160", "dates": ["['-30', '300']"], "features": "['area di frammenti', 'ceramica comune', 'tegola', 'blocco squadrato']"}, 
 { "id": "161", "dates": ["['-30', '300']"], "features": "['villa']"} 
-], 
+]
 } 
