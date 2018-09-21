@@ -110,5 +110,5 @@
 { "id": "126", "dates": ["['-400', '-1']","['1','200']"], "features": "['tegola', 'ceramica vascolare', 'vernice nera', 'tufo (1,200)', 'calcina (1,200)', 'tasselli laterizi di pavimento in opera spicata (1,200)', 'tessera (1,200)']"}, 
 { "id": "127", "dates": ["['-200', '-1']"], "features": "['villa rustica di epoca tardo-repubblicana', 'tufo', 'calcare']"}, 
 { "id": "128", "dates": ["['-400', '-200']","['1','200']"], "features": "['ceramica di etá medio-repubblicana', 'villa di età imperiale', 'statua (1,200)']"} 
-], 
+]
 } 
