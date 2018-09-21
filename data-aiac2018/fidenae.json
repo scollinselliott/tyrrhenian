@@ -34,5 +34,5 @@
 { "id": "112", "dates": ["['-500', '200']"], "features": "['abitato', 'necropoli', 'ceramica', 'tegola']"}, 
 { "id": "113", "dates": ["['-500', '-300']"], "features": "['tegola', 'ceramica', 'abitato', 'villa rustica di epoca tardo-repubblicana e imperiale', 'opus reticulatum', 'tufo']"}, 
 { "id": "114", "dates": ["['-130', '200']"], "features": "['tegola', 'ceramica', 'vernice nera', 'villa rustica di epoca imperiale', 'tegola', 'tufo', 'opus retiucaltum', 'tessera', 'vetro']"} 
-], 
+]
 } 
